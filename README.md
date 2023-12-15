@@ -14,7 +14,7 @@ This project focuses on enhancing financial tracking through data mining techniq
 - **YouTube Demo:** [Link](https://youtu.be/HXaDWtv0cmk)
 - **Presentation:** [Slideshare](https://www.slideshare.net/patiladiti752/ledger-alchemy-255-data-miningpdf)
 - **Detailed Project Report:** [Link](https://github.com/Fullstack-Alchemists-SJSU/ledger-alchemy-recommender/blob/7499ea6c14cb6ac01cfe97e459e065aabbcc6b8f/CMPE255-Project%20Report%20Document.pdf)
-- **Codebase:** [Link](https://github.com/Fullstack-Alchemists-SJSU/ledger-alchemy-recommender/blob/master/Ledger_Alchemy_Recommender_Preprocessing.ipynb)
+- **Codebase:** [Link](https://github.com/Fullstack-Alchemists-SJSU/ledger-alchemy-recommender/blob/513232e5feb8cd7535756d537e11f09cd74a5a8e/Expense_Tracker_Financial_Predictor_Recommender.ipynb)
 
 
 ## Contributors
