@@ -3,7 +3,7 @@
 # Ledger Alchemy
 **Project by FullStack Alchemists**
 
-## About
+## About 
 
 This project focuses on enhancing financial tracking through data mining techniques. It delves into the development and implementation of a state-of-the-art financial expense tracker application integrated with a predictor-recommender system. The report covers system architecture, data mining methods, challenges encountered, and solutions implemented. It includes a comparative analysis of logistic and linear regression models with neural network models in financial data analysis, highlighting strengths and limitations. The report also explores data issues, model implementation, and future directions in financial data mining, aiming to provide personalized financial advice and insights.
 
@@ -21,4 +21,5 @@ This project focuses on enhancing financial tracking through data mining techniq
 * Aditya Kulkarni
 * Shivam Hasurkar
 * Aditi Patil
+  
 
