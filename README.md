@@ -11,7 +11,7 @@ This project focuses on enhancing financial tracking through data mining techniq
 ## Additional Resources
 - **Dataset:** [PLAID API Sandbox data](https://plaid.com/docs/sandbox/test-credentials/)
 - **Curated Final Version of the Dataset:**[Zip File](Data/ledger_alchemy_transactions_v6.zip)
-- **YouTube Demo:** [Link](https://youtu.be/HXaDWtv0cmk)
+- **YouTube Demo:** [Link](https://youtu.be/yR6P6bdnxwo)
 - **Presentation:** [Slideshare](https://www.slideshare.net/patiladiti752/ledger-alchemy-255-data-miningpdf)
 - **Detailed Project Report:** [Link](https://github.com/Fullstack-Alchemists-SJSU/ledger-alchemy-recommender/blob/7499ea6c14cb6ac01cfe97e459e065aabbcc6b8f/CMPE255-Project%20Report%20Document.pdf)
 - **Codebase:** [Link](https://github.com/Fullstack-Alchemists-SJSU/ledger-alchemy-recommender/blob/513232e5feb8cd7535756d537e11f09cd74a5a8e/Expense_Tracker_Financial_Predictor_Recommender.ipynb)
